@@ -7,6 +7,23 @@ This project was developed as a **collaborative team effort**. It demonstrates t
 
 ---
 
+## 📦 Latest Release — v1.0.0
+
+Download the latest version from the [Releases](../../releases) page:
+
+https://github.com/user-attachments/assets/14f874cd-15fa-4b0d-9e10-2fdb86339531
+
+
+| File | Description |
+|------|-------------|
+| `FlightBookingGUI.exe` | 🖥️ Windows — double-click to run (no Java needed) |
+| `FlightBooking.jar` | ☕ Cross-platform — requires Java 8+ |
+
+**Run the JAR:**
+java -jar FlightBooking.jar
+
+---
+
 ## 🌟 Key Features
 
 ### 🔐 Multi-Access Authentication
@@ -69,5 +86,3 @@ Enhance the travel experience with optional add-ons:
 ---
 
 *Thank you for exploring our project!*
-
-
