@@ -57,7 +57,7 @@ Enhance the travel experience with optional add-ons:
 
 ## 📂 Project Structure
 
-- `src/dsproject/`: Contains all source files.
+- `source-code`: Contains all source files.
 - `FlightBookingGUI.java`: Main GUI controller and layout.
 - `DSProject.java`: Main entry point and CLI controller.
 - `Registration.java`: Handles user authentication and data management.
